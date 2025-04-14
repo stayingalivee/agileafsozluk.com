@@ -1,4 +1,4 @@
-# agileafsozlugu.com
+# agileafsozluk.com
 
 ## Contribution Rules
 
